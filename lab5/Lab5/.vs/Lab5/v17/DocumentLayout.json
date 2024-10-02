@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\prog\\lab5\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2ECCB0-F8FC-4447-A64D-3289D1B691F7}|Lab5.vcxproj|D:\\uni\\prog\\lab5\\Lab5\\Lab5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D2ECCB0-F8FC-4447-A64D-3289D1B691F7}|Lab5.vcxproj|solutionrelative:Lab5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab5.c",
+              "DocumentMoniker": "D:\\uni\\prog\\lab5\\Lab5\\Lab5.c",
+              "RelativeDocumentMoniker": "Lab5.c",
+              "ToolTip": "D:\\uni\\prog\\lab5\\Lab5\\Lab5.c",
+              "RelativeToolTip": "Lab5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T16:33:31.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
