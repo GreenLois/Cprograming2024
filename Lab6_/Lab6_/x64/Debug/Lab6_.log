@@ -1,3 +1,3 @@
 ﻿  Lab6.c
-D:\uni\prog\Lab6_\Lab6.c(12,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Lab6_.vcxproj -> D:\uni\prog\Lab6_\x64\Debug\Lab6_.exe
+D:\uni\prog\Cprograming2024\Lab6_\Lab6.c(12,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6_.vcxproj -> D:\uni\prog\Cprograming2024\Lab6_\x64\Debug\Lab6_.exe
