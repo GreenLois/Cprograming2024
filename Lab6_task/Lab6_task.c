@@ -13,7 +13,7 @@ char* month_name(int n) {
     return (n < 1 || n > 12) ? name[0] : name[n];
 }
 
-void bubble_sort(char* months[], int n) {
+static void sort(char* months[], int n) {
     int i, j;
     char* temp;
     for (i = 0; i < n - 1; i++) {
@@ -34,7 +34,7 @@ int main() {
     for (int i = 0; i < 12; i++) {
         printf("%s\n", months[i]);
     }
-    bubble_sort(months, 12);
+    sort(months, 12);
     printf("\n\nSorted months:\n\n");
     for (int i = 0; i < 12; i++) {
         printf("%s\n", months[i]);

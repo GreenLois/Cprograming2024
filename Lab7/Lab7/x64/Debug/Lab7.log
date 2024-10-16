@@ -1,0 +1,10 @@
+﻿  Lab7.c
+D:\uni\prog\Cprograming2024\Lab7\Lab7.c(18,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      D:\uni\prog\Cprograming2024\Lab7\Lab7.c(18,13):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\uni\prog\Cprograming2024\Lab7\Lab7.c(18,13):
+      the missing variadic argument 2 is required by format string '%s'
+      D:\uni\prog\Cprograming2024\Lab7\Lab7.c(18,13):
+      this argument is used as a buffer size
+  
+  Lab7.vcxproj -> D:\uni\prog\Cprograming2024\Lab7\x64\Debug\Lab7.exe
